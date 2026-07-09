@@ -1,0 +1,5 @@
+# Web ads seller file for mira-drama.com.
+# If this website itself runs web ads, replace the publisher ID below.
+# For mobile app verification, AdMob checks /app-ads.txt.
+
+google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
