@@ -1,11 +1,2 @@
-# Mira Drama app-ads.txt
-# Domain: mira-drama.com
-# Developer: Sabir
-#
-# IMPORTANT:
-# Replace pub-0000000000000000 with the real AdMob publisher ID from
-# AdMob > Apps > app-ads.txt before publishing to production.
-# Example format:
-# google.com, pub-1234567890123456, DIRECT, f08c47fec0942fa0
-
-google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+google.com, pub-1585077539717491, DIRECT, f08c47fec0942fa0
+vungle.com, 68071d386a5f3e00113b7c2d, DIRECT, c107d686becd2d77
